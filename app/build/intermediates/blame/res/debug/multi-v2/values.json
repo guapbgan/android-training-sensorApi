@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\Deme19_SensorAPIStudy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Deme19_SensorAPIStudy\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "109,56",
+                        "endColumns": "51,52",
+                        "endOffsets": "156,104"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,52",
+                        "endOffsets": "102,155"
+                    }
+                }
+            ]
+        }
+    ]
+}
